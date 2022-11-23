@@ -1,0 +1,15 @@
+
+
+
+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
+
+https://github.com/githubtestid0408/push_test.git
+
+echo "# push_test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/githubtestid0408/push_test.git
+git push -u origin main
+
